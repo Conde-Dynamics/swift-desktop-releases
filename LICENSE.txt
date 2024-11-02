@@ -1,0 +1,16 @@
+PROPRIETARY LICENSE AGREEMENT
+
+This software application ("Swift") is proprietary and owned by Conde Dynamics. By downloading and using this App, you agree to the following terms:
+
+1. **Usage Rights**: You are granted a non-exclusive, non-transferable license to use the App for personal or internal business purposes only.
+
+2. **Restrictions**:
+   - You may not modify, reverse engineer, or create derivative works based on the App.
+   - You may not distribute, share, or sell the App to any third party.
+   - You may not use the App for commercial purposes without prior written consent from Conde Dynamics.
+
+3. **Termination**: This license is effective until terminated. It will terminate automatically if you fail to comply with any of its terms. Upon termination, you must cease all use of the App and destroy all copies.
+
+4. **No Warranty**: The App is provided "as is" without warranty of any kind, either express or implied.
+
+By downloading the App, you agree to comply with these terms.
